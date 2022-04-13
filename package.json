@@ -1,0 +1,37 @@
+{
+  "name": "7oaoth--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react-dom": "18.0.0",
+    "react": "18.0.0",
+    "@progress/kendo-data-query": "1.5.6",
+    "@progress/kendo-drawing": "1.16.3",
+    "@progress/kendo-licensing": "1.2.2",
+    "@progress/kendo-react-buttons": "5.2.0",
+    "@progress/kendo-react-intl": "5.2.0",
+    "@progress/kendo-react-grid": "5.2.0",
+    "@progress/kendo-react-animation": "5.2.0",
+    "@progress/kendo-react-dateinputs": "5.2.0",
+    "@progress/kendo-react-popup": "5.2.0",
+    "@progress/kendo-react-treeview": "5.2.0",
+    "@progress/kendo-react-inputs": "5.2.0",
+    "@progress/kendo-react-dropdowns": "5.2.0",
+    "@progress/kendo-react-data-tools": "5.2.0",
+    "@progress/kendo-react-pdf": "5.2.0",
+    "@progress/kendo-react-excel-export": "5.2.0",
+    "prop-types": "15.8.1",
+    "cldr-dates-full": "36.0.0",
+    "cldr-numbers-full": "36.0.0",
+    "cldr-core": "36.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
